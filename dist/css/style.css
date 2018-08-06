@@ -2064,8 +2064,11 @@ a{color:#666}
 .jp-list .item2 .b{top:0}
 .jp-list .item2 .ai2{top:100%;background-position:-177px -150px}
 .jp-list .slick-arrow{top:50%;margin-top:-25px;border-color:#fff}
+.jp-list .slick-arrow.slick-disabled{cursor:default;border-color:#999!important;background-color:#999!important}
 .jp-list .slick-prev{right:auto;left:0}
+.jp-list .slick-prev.slick-disabled{background-position:0 -127px}
 .jp-list .slick-next{right:0;left:auto}
+.jp-list .slick-next.slick-disabled{background-position:-60px -67px}
 .jo4{padding-top:80px;padding-bottom:150px}
 .jo4 .jp-list{margin-top:85px}
 .jo5{padding-top:80px}
